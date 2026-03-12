@@ -8,5 +8,16 @@ root.render(
     <React.StrictMode>
         <h1>Weather App</h1>
         <Weather />
+        <br />
+        <br />
+        <footer>
+            <a href="https://github.com/Lalapaya/shecodesreact" target="_blank" rel="noreferrer">
+                Open-source code
+            </a>{' '}
+            by{' '}
+            <a href="https://lalapaya.com" target="_blank" rel="noreferrer">
+                Luise Bauer
+            </a>
+        </footer>
     </React.StrictMode>,
 );
